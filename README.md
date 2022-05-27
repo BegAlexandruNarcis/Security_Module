@@ -23,3 +23,15 @@ Clientul are access doar la paginile de baza si anume: Homepage, Products, About
 Contabilul are access la aceleasi pagini ca si clientul, iar pe langa acestea si la pagina Accountant de unde poate gestiona produsele (vizualizare,adaugare).
 Operatorul are access la aceleasi pagini ca si clientul, insa poate accesa in plus pagina Orders de unde poate vedea comezile in real-time dar si cateva date despre cumparator.
 Administratorul are access la toate paginile , unde pe langa cele amintitedeja exista si pagina Users Permission de unde administratorul poate schimba rolurile oricarui utilizator astfel oferindu-i acces la anumite pagini in functie de rol.
+
+![1](https://user-images.githubusercontent.com/92181742/170768058-97f70c7f-b90c-4d1b-beed-84a66a0fcac6.png)
+![2](https://user-images.githubusercontent.com/92181742/170768121-b56a42fa-2266-4a40-aec6-f76c851fdea7.png)
+![3](https://user-images.githubusercontent.com/92181742/170768139-dd1b9d1a-5954-46cd-b61f-c5efa3c12026.png)
+![5](https://user-images.githubusercontent.com/92181742/170768168-32459ede-71db-440a-9644-908f8bf30d02.png)
+![7 1](https://user-images.githubusercontent.com/92181742/170768190-05d984fe-cff1-44d7-9b99-be6399668495.png)
+![8](https://user-images.githubusercontent.com/92181742/170768215-2aab5493-74f9-4599-a0fe-59af16beb5f9.png)
+![10](https://user-images.githubusercontent.com/92181742/170768326-63092c21-3be5-443b-85ee-70dc096fb6fa.png)
+![11](https://user-images.githubusercontent.com/92181742/170768344-dce4856a-ac4a-4953-954b-853c59644907.png)
+![12](https://user-images.githubusercontent.com/92181742/170768368-365148cd-dd4a-43dd-a122-880eb2f89365.png)
+![14](https://user-images.githubusercontent.com/92181742/170768378-226912af-7763-4438-89bb-b89cdc018ff7.png)
+
